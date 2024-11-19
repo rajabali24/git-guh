@@ -1,0 +1,400 @@
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.many {
+    background-color: black;
+    height: 305px;
+    margin-top: -20px;
+
+}
+
+.tar {
+    padding-top: 60px;
+    text-align: center;
+    font-size: 20px;
+    color: white;
+}
+
+h1 {
+    text-align: center;
+    font-size: 45px;
+    padding-top: 20px;
+    color: white;
+}
+
+.wor2 {
+    background-color: rgb(104, 101, 101);
+    color: white;
+    margin-top: 45px;
+    font-size: 25px;
+    padding: 15px;
+
+}
+
+.boton {
+    text-align: center;
+}
+
+.w3:hover {
+    background-color: white;
+    color: rgb(105, 97, 97);
+}
+
+.main1 {
+    width: 32%;
+    height: 500px;
+    background-color: white;
+    border: 1px solid rgb(232, 223, 223);
+    margin-left: 15px;
+    box-shadow: 2px 0 4px 1px rgb(138, 131, 131);
+
+}
+
+h3 {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 25px;
+}
+
+.surat {
+    text-align: center;
+    padding-top: 20px;
+}
+
+p {
+    text-align: center;
+    font-size: 18px;
+    margin-top: 20px;
+}
+
+.many3 {
+    display: flex;
+}
+
+.box {
+    background-color: white;
+    height: 155px;
+    margin-top: 15px;
+    margin-left: 15px;
+    margin-right: 10px;
+    border-top: 1px solid rgb(232, 223, 223);
+    border-bottom: 1px solid rgb(232, 223, 223);
+
+}
+
+h2 {
+    text-align: center;
+    font-size: 30px;
+    padding-top: 30px;
+}
+
+
+
+.item {
+    width: 17%;
+    text-align: start;
+    padding: 15px;
+    font-size: 20px;
+    background-color: green;
+    color: white;
+
+}
+
+.box1 {
+    display: flex;
+    padding-top: 20px;
+}
+
+.item1 {
+    background-color: rgb(220, 11, 11);
+}
+
+.item2 {
+    background-color: rgb(16, 16, 203);
+}
+
+.item3 {
+    background-color: rgb(116, 116, 180);
+}
+
+.item4 {
+    background-color: teal;
+}
+
+.item5 {
+    background-color: rgb(225, 225, 11);
+}
+
+.item6 {
+    background-color: orange;
+}
+
+.Rez {
+    height: 140px;
+}
+
+.box {
+    text-align: start;
+}
+
+.helf {
+    padding-top: 1px;
+    margin-right: 570px;
+
+}
+
+.helf1 {
+    margin-right: 630px;
+    color: white;
+}
+
+.the {
+    margin-left: 15px;
+    font-size: 20px;
+    color: white;
+}
+
+.clas {
+    background-color: rgb(88, 88, 222);
+    width: 50%;
+
+    border: 1px solid rgb(156, 146, 146);
+}
+
+.box3 {
+    display: flex;
+    border: 1px solid rgb(145, 136, 136);
+    margin-left: 15px;
+    margin-right: 10px;
+}
+
+.h3w3 {
+    padding-left: 15px;
+
+}
+
+.w3w3 {
+    padding-top: 20px;
+    font-size: 25px;
+    margin-left: 20px;
+}
+
+.w3w31 {
+    color: white;
+}
+
+.box4 {
+
+    background-color: rgb(74, 194, 74);
+    width: 33%;
+
+}
+
+.pppp {
+    padding-left: 15px;
+    font-size: 18px;
+    color: white;
+}
+
+.main3 {
+    display: flex;
+    margin-left: 15px;
+    margin-top: 25px;
+    margin-right: 10px;
+}
+
+.box5 {
+    width: 33%;
+}
+
+.quar {
+    font-size: 25px;
+    padding-left: 20px;
+    padding-top: 20px;
+}
+
+.quar1 {
+    color: white;
+}
+
+.thew3 {
+    background-color: rgb(201, 47, 47);
+    width: 25%;
+
+}
+
+.theof {
+    padding-left: 15px;
+    font-size: 17px;
+    color: white;
+}
+
+.main4 {
+    display: flex;
+    border: 1px solid rgb(170, 160, 160);
+    margin-left: 15Px;
+    margin-top: 25px;
+    margin-right: 10px;
+}
+
+.thew4 {
+    width: 25%;
+
+}
+
+.head {
+
+    background-color: rgb(116, 116, 180);
+    font-size: 30px;
+    padding: 20px;
+    margin-left: 15px;
+    margin-right: 10px;
+    margin-top: 20px;
+}
+
+.head1 {
+    color: white;
+}
+
+.lon {
+    font-size: 30px;
+    padding-top: 30px;
+    margin-left: 30px;
+}
+
+.lon1 {
+    margin-top: 90px;
+    margin-left: 30px;
+    font-size: 20px;
+}
+
+.lon2 {
+    margin-top: 20px;
+}
+
+.footer {
+    background-color: rgb(116, 116, 180);
+    padding: 10px;
+    margin-left: 15px;
+    margin-right: 10px;
+}
+
+.fot {
+    font-size: 25px;
+    color: white;
+
+}
+
+.fot1 {
+    font-size: 20px;
+    color: white;
+}
+
+.indigo {
+    font-size: 25px;
+    background-color: blue;
+    color: white;
+    padding: 10px;
+    width: 714px;
+    display: block;
+    border: 1px solid rgb(171, 161, 161);
+
+}
+
+.indigo1 {
+    font-size: 25px;
+    color: rgb(5, 5, 244);
+    padding: 10px;
+    width: 714px;
+    display: block;
+    border-top: 1px solid rgb(171, 161, 161);
+
+}
+
+> Sharifzoda A:
+.indigo2 {
+    border: 1px solid black;
+    margin-left: 15px;
+}
+
+.indigo3 {
+    width: 715px;
+}
+
+.indigo7 {
+    border: 1px solid black;
+    margin-left: 15px;
+}
+
+.frozen {
+    font-size: 30px;
+}
+
+.the4 {
+    font-size: 19px;
+}
+
+.frozen1 {
+    font-size: 25px;
+    padding-top: 10px;
+    width: 724px;
+    padding-left: 10px;
+    padding-bottom: 15px;
+    border-top: 1px solid rgb(171, 161, 161);
+}
+
+.next {
+    font-size: 25px;
+    background-color: rgb(11, 11, 228);
+    color: white;
+    width: 725px;
+    padding-right: 10px;
+    text-align: end;
+    border-top: 1px solid rgb(171, 161, 161);
+}
+
+.main5 {
+    display: flex;
+
+}
+
+.indigo3 {
+    background-color: black;
+}
+
+.next1 {
+    background-color: black;
+    width: 727px;
+}
+
+.paper {
+    font-size: 25px;
+}
+
+.cars {
+    margin-top: 10px;
+    margin-left: 10px;
+    box-shadow: 2px 0 4px 1px rgb(104, 98, 98);
+
+}
+
+.w3cars {
+    font-size: 20px;
+    padding: 10px;
+    padding-left: 15px;
+
+
+}
+
+.cars img {
+    width: 100%;
+}
+
+.main6 {
+    display: flex;
+    margin-bottom: 50px;
+    
+}
